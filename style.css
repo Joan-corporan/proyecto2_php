@@ -4,6 +4,9 @@
     padding: 0;
     text-align: center;
 }
+body{
+    background-color: rgba(233, 150, 122, 0.816);
+}
 nav{
     background-color: orange !important;
 }
